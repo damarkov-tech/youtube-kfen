@@ -1,0 +1,12 @@
+﻿{
+  "addons": {
+    "youtube-kfen@ysu.ru": {
+      "updates": [
+        {
+          "version": "1.6.0",
+          "update_link": "https://damarkov-tech.github.io/youtube-kfen/youtube-kfen-1.6.0.xpi"
+        }
+      ]
+    }
+  }
+}
